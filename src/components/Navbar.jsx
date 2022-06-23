@@ -12,13 +12,9 @@ const Navbar = () => {
       <div className="mx-3 px-4 flex justify-between items-center h-full">
         <div className="flex flex-row items-center">
           <div>
-            <img
-              className="rounded-[50%] w-14"
-              src="https://www.ggchamber.org/wp-content/uploads/2021/12/246-2467553_nuwave-design-ltd-your-logo-here-png-png.jpg"
-              alt="#"
-            ></img>
+            <img className=" w-52" src="/turners_logo.png" alt="#"></img>
           </div>
-          <h1 className="text-gray-600">My company</h1>
+          {/* <h1 className="text-gray-600">My company</h1> */}
         </div>
         <div className="hidden md:flex">
           <ul className="flex text-black items-center">

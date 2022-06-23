@@ -7,13 +7,13 @@ const Card = () => {
         <div className="relative flex items-center justify-center overflow-hidden shadow-xl w-96 h-64">
           <img
             className=" hover:scale-150 absolute w-full h-full transition-all duration-500 ease-in-out transform bg-center bg-cover"
-            src="https://st.hzcdn.com/simgs/pictures/exteriors/lucerne-daniel-marshall-architect-img~f6d1874e00f4f4dc_4-2894-1-bfeda34.jpg"
+            src="https://www.motortrend.com/uploads/sites/5/2021/08/2022-Acura-NSX-Type-S_020.jpg"
             alt="#"
           />
         </div>
         <div>
           <h1 className="text-2xl pt-3 font-medium text-slate-600 pb-2">
-            Dream house 1
+            Dream car 1
           </h1>
           <p className="text-sm tracking-tight font-light text-slate-400 leading-6">
             {" "}
@@ -25,14 +25,14 @@ const Card = () => {
         <div className="relative flex items-center justify-center overflow-hidden shadow-xl w-96 h-64">
           <img
             className="hover:scale-150 absolute w-full h-full transition-all duration-500 ease-in-out transform bg-center bg-cover"
-            src="https://images.adsttc.com/media/images/56d6/58e7/e58e/ce2a/cd00/0148/large_jpg/mv46-hi-res.jpg?1456888022"
+            src="https://media.ed.edmunds-media.com/lexus/es-350/2022/oem/2022_lexus_es-350_sedan_base_fq_oem_1_1600.jpg"
             alt="#"
           />
         </div>
 
         <div>
           <h1 className="text-2xl pt-3 font-medium text-slate-600 pb-2">
-            Dream house 2
+            Dream car 2
           </h1>
           <p className="text-sm tracking-tight font-light text-slate-400 leading-6">
             {" "}
@@ -44,14 +44,14 @@ const Card = () => {
         <div className="relative flex items-center justify-center overflow-hidden shadow-xl w-96 h-64">
           <img
             className="hover:scale-150 absolute w-full h-full transition-all duration-500 ease-in-out transform bg-center bg-cover"
-            src="https://s.oneroof.co.nz/image/1e/3b/1e3b4ee733c3d28c3d3b89c1351f841f.jpg"
+            src="https://cdn.cnn.com/cnnnext/dam/assets/200908134553-01-maserati-mc20-super-169.jpg"
             alt="#"
           />
         </div>
 
         <div>
           <h1 className="text-2xl pt-3 font-medium text-slate-600 pb-2">
-            Dream house 3
+            Dream car 3
           </h1>
           <p className="text-sm tracking-tight font-light text-slate-400 leading-6">
             {" "}

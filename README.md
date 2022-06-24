@@ -2,7 +2,6 @@
 
 A basic responsive homepage with a chatbot that responds to inquiries concerning Turners Cars' online auctions.
 
-Tech stack
 - React
 - Tailwind CSS
 - Google Dialogflow CX
